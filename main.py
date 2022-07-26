@@ -4,8 +4,11 @@ import time
 import rel
 from modules import *
 
-client_key = 'DEMOPN'
-api_key='2IpA4Tn6SSV1Jja4nmKvP8aYDMIGsAQHhck5CPg108WJP292kGuJ9rZRYhgVyevL8f6kjfhGBEHpkQ4iblcTk5qifFfskmtEhoRuQW0Iui9QMkbPfLI709GzzuVfWWTA'
+# Enter the client code
+client_key = ''
+
+#Enter the session Id
+api_key=''
 
 
 
